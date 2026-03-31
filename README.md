@@ -10,7 +10,7 @@ Mapeamento das interações críticas (Reposição, Alerta de Estoque e CRUD), d
 
 ### **Fluxograma de Dados:** 
 Visualização da transição da informação, do Controller até a persistência, desenhado em Mermaid Live.
-![Fluxo de Dados](./doc/FluxoDados.png)
+![Fluxo de Dados](./doc/FluxoDeDados.png)
 
 ### **Arquitetura do Sistema:** 
 O sistema segue uma Arquitetura Monolítica baseada em camadas, garantindo a separação de responsabilidades. O diagrama abaixo foi construído utilizando Mermaid Live.
