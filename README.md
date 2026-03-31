@@ -6,19 +6,20 @@ Este projeto é uma API robusta desenvolvida para o gerenciamento de produtos e 
 
 ### **Diagrama de Casos de Uso (UML):** 
 Mapeamento das interações críticas (Reposição, Alerta de Estoque e CRUD), desenvolvido via PlantUML.
-![Caso de Uso](./doc/CasoDeUso.png)
+<img src="./doc/CasoDeUso.png" alt="Descrição" width="600">
 
 ### **Fluxograma de Dados:** 
 Visualização da transição da informação, do Controller até a persistência, desenhado em Mermaid Live.
-![Fluxo de Dados](./doc/FluxoDeDados.png)
+<img src="./doc/FluxoDeDados.png" alt="Descrição" width="600">
 
 ### **Arquitetura do Sistema:** 
 O sistema segue uma Arquitetura Monolítica baseada em camadas, garantindo a separação de responsabilidades. O diagrama abaixo foi construído utilizando Mermaid Live.
-![Arquitetura](./doc/Arquitetura.png)
+
+<img src="./doc/Arquitetura.png" alt="Descrição" width="300">
 
 ### **Modelo Lógico do Banco de Dados:** 
 Estrutura de dados projetada via dbdiagram.io para garantir relacionamentos eficientes entre Categorias e Produtos.
-![Modelo Lógico](./doc/ModeloLogico.png)
+<img src="./doc/ModeloLogico.png" alt="Descrição" width="600">
 
 ## 🚀 Tecnologias Utilizadas
 
