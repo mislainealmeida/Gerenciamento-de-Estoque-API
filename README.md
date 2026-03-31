@@ -49,8 +49,9 @@ Estrutura de dados projetada via dbdiagram.io para garantir relacionamentos efic
 
 ## 📊 Visualização do Projeto
 Abaixo, a interface do Swagger UI, que permite a exploração e o teste em tempo real dos endpoints da API. 
-![Swagger](./doc/CategoryController.png)
-![Swagger](./doc/ProductController.png)
+<img src="./doc/CategoryController.png" alt="Descrição" width="600">
+<img src="./doc/ProductController.png" alt="Descrição" width="600">
+
 
 
 ---
