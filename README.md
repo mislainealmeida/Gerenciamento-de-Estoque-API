@@ -24,7 +24,7 @@ Estrutura de dados projetada via dbdiagram.io para garantir relacionamentos efic
 ## 🚀 Tecnologias Utilizadas
 
 ### Core
-- **Java 17** & **Spring Boot 3**
+- **Java 21** & **Spring Boot 3**
 - **Spring Data JPA**: Abstração de persistência e consultas dinâmicas.
 - **Spring Validation**: Validação de dados na entrada da API.
 - **PostgreSQL**: Banco de dados relacional de alta performance.
